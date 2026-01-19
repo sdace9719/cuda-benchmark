@@ -1,0 +1,9 @@
+bindings.cpp
+bindings_float4.cpp
+kernel.cu
+kernel_float4.cu
+setup.py
+my_custom_ops_float64.egg-info/PKG-INFO
+my_custom_ops_float64.egg-info/SOURCES.txt
+my_custom_ops_float64.egg-info/dependency_links.txt
+my_custom_ops_float64.egg-info/top_level.txt

@@ -1,0 +1,4 @@
+Timestamp,Mode,Wall_Time_s,Total_Tokens,Tokens_Sec,Tokens_Min
+2026-01-19 21:51:28,Eager (Standard),156.3820,294912,1885.84,113150.64
+2026-01-19 22:01:16,Torch Compile (Standard optimized),155.7898,294912,1893.01,113580.75
+2026-01-19 22:05:32,torch.compile,137.5636,294912,2143.82,128629.37

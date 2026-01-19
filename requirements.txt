@@ -1,0 +1,11 @@
+torch
+setuptools
+numpy
+matplotlib
+bitsandbytes
+accelerate 
+datasets 
+transformers
+tensorboard
+peft
+python-dotenv
